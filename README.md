@@ -287,7 +287,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >[!/]setname [name]
->>[!/]setname SEED
+>>[!/]setname CeWeR
 >>>This command will set [name] as name of groups
 
 ### Group link
@@ -357,7 +357,7 @@ _Sudo users and admins can also use this commands in all groups_
 >>_Normal users can use it_
 
 ### group stats
->[!/]stats
+>[!/]stats CeWeR-TG
 >>This command will return group message statistic in a .txt file
 >
 >[!/]statslist
