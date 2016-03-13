@@ -409,7 +409,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### change name|rules|name
 >[!/]changename [group_id] [name]
->>[!/]changename 123456789 SEED
+>>[!/]changename 123456789 CeWeR
 >
 >[!/]changrules [group_id] [rules]
 >>[!/]changrules 123456789 rules !
