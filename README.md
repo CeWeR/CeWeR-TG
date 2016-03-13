@@ -458,7 +458,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
   sudo_users = {
     153545455,
     0,
-    0,
+    0
     YourID
   }
 ```
@@ -468,7 +468,7 @@ Create a realm using the `!createrealm` command.
 
 # Support and development
 
-Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/CeWeR_SP-tutorial/) for further assistance with setup and installation.
+Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/06/CeWeR_SP-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
 Join our bot development group by sending `/join 3494848` to [@CeWeR_SP](https://telegram.me/CeWeR_SP)
@@ -478,7 +478,7 @@ Join our bot development group by sending `/join 3494848` to [@CeWeR_SP](https:/
 
 For managing [@CeWeR_SP](https://telegram.me/CeWeR_SP) on Telegram.
 
-[@CeWeR_TFBoKTAY](https://telegram.me/CeWeR_TFBoKtay)
+[@CeWeR_TFB](https://telegram.me/CeWeR_TFBoKtay)
 
 For graphic designs.
 
