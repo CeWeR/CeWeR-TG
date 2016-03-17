@@ -3,6 +3,9 @@
 [![Join the chat at https://gitter.im/CeWeR/CeWeR-TG](https://badges.gitter.im/CeWeR/CeWeR-TG.svg)](https://gitter.im/CeWeR/CeWeR-TG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/CeWeR/CeWeR-TG/blob/master/LICENSE)**.
+
+[Bot Test](https://telegram.me/DeV_CeWeR_Bot)
+
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
