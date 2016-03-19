@@ -1,8 +1,7 @@
-telegram-bot
+# CeWeR-TG
 ============
 
-[![https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw](https://img.shields.io/badge/💬_Telegram-Bot_Dev._Group-blue.svg)](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw) [![https://telegram.me/Yago_Perez](https://img.shields.io/badge/💬_Telegram-Yago__Perez-blue.svg)](https://telegram.me/Yago_Perez) [![https://gitter.im/yagop/telegram-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/yagop/telegram-bot])
-[![Donate button](https://img.shields.io/badge/Red_Cross-donate-yellow.svg)](https://www.icrc.org/ "Donate to Red Cross Society")
+[Admin Bot](https://telegram.me/CeWeR_TFB) 
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
@@ -318,23 +317,24 @@ Bot Commands
   </tbody>
 </table>
 
-[Installation](https://github.com/yagop/telegram-bot/wiki/Installation)
+[Installation](https://github.com/CeWeR/CeWeR-TG/wiki/Installation)
 ------------
 ```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
+# Tested on Ubuntu 14.04, for other OSs check out https://github.com/CeWeR/CeWeR-TG/wiki/Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME
-git clone https://github.com/yagop/telegram-bot.git
-cd telegram-bot
+git clone https://github.com/CeWeR/CeWeR-TG.git for Groups
+and for SuperGroups git clone https://github.com/CeWeR/CeWeR-TG.git -b supergroups
+cd CeWeR-TG
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-Enable more [`plugins`](https://github.com/yagop/telegram-bot/tree/master/plugins)
+Enable more [`plugins`](https://github.com/CeWeR/CeWeR-TG/tree/master/plugins)
 -------------
 See the plugins list with `!plugins` command.
 
@@ -358,6 +358,6 @@ $ sudo stop telegram # To stop it
 
 Contact me
 ------------
-You can contact me [via Telegram](https://telegram.me/yago_perez) but if you have an issue please [open](https://github.com/yagop/telegram-bot/issues) one.
+You can contact me [via Telegram](https://telegram.me/CeWeR_TFB) but if you have an issue please [open](https://github.com/CeWeR/CeWeR-TG/issues) one.
 
-[Join](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw) on the TelegramBot Discussion Group.
+[Join](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOwGw) on the CeWeR TGBot Discussion Group.
