@@ -1,6 +1,6 @@
-# CeWeR-TG
-============
-
+# [CeWeR-TG](https://github.com/CeWeR/CeWeR-TG)
+============T-T
+O_o
 [Admin Bot](https://telegram.me/CeWeR_TFB) 
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
